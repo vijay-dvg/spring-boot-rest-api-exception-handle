@@ -1,0 +1,14 @@
+package com.vijay.springboot.application;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SpringBootRestApiExceptionHandleApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringBootRestApiExceptionHandleApplication.class, args);
+	}
+
+}
+
