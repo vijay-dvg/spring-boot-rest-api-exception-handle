@@ -1,4 +1,4 @@
-package com.vijay.springboot.application.serivice;
+package com.vijay.springboot.application.service;
 
 import java.util.List;
 import java.util.Optional;

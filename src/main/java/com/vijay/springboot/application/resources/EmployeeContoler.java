@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.vijay.springboot.application.constants.ResourceConstant;
 import com.vijay.springboot.application.domain.Employee;
 import com.vijay.springboot.application.exception.ResourceNotFoundException;
-import com.vijay.springboot.application.serivice.EmployeeService;
+import com.vijay.springboot.application.service.EmployeeService;
 
 /**
  * EmployeeContoler used to get the Employee details
